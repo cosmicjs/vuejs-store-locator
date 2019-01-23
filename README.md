@@ -38,7 +38,7 @@ rename .env.sample to .env and paste your API keys
 change you .env config
 npm build
 npm start
-# if all works, then you can delpoy to Cosmic JS from the dashboard -> settings -> hosting
+# if all works, then you can deploy to Cosmic JS from the dashboard -> settings -> hosting
 
 # run unit tests
 npm run unit
